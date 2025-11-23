@@ -19,12 +19,15 @@ export const ColorSelector: React.FC<ColorSelectorProps> = ({ colors, onSelect, 
                 Selecciona el color
             </h3>
             <div className="grid grid-cols-2 md:grid-cols-3 gap-6">
-                {colors.map((color) => (
+                {colors.map((color, index) => (
                     <button
                         key={color.id}
                         onClick={() => onSelect(color.id)}
-                        className="btn btn-lg w-40 h-40 text-xl font-bold text-white hover:scale-105 transition-transform shadow-lg border-none"
-                        style={{ backgroundColor: color.hex }}
+                        className={`btn h-40 text-xl font-bold text-white shadow-lg hover:scale-105 transition-transform animate-scale-up`}
+                        style={{
+                            backgroundColor: color.hex,
+                            animationDelay: `${index * 0.15}s`
+                        }}
                     >
                         {color.name}
                     </button>

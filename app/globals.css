@@ -40,3 +40,55 @@ body {
 .animate-fade-in {
   animation: fadeIn 0.5s ease-out forwards;
 }
+
+@keyframes rainbow-border {
+  0% {
+    border-color: #ef4444;
+  }
+
+  20% {
+    border-color: #f97316;
+  }
+
+  40% {
+    border-color: #eab308;
+  }
+
+  60% {
+    border-color: #22c55e;
+  }
+
+  80% {
+    border-color: #3b82f6;
+  }
+
+  100% {
+    border-color: #a855f7;
+  }
+}
+
+.animate-rainbow-border {
+  animation: rainbow-border 4s linear infinite alternate;
+}
+
+@keyframes scaleUp {
+  0% {
+    transform: scale(1);
+  }
+
+  15% {
+    transform: scale(1.05);
+  }
+
+  30% {
+    transform: scale(1);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+.animate-scale-up {
+  animation: scaleUp 2s ease-in-out infinite;
+}

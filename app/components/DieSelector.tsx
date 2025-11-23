@@ -9,7 +9,7 @@ interface DieSelectorProps {
 export const DieSelector: React.FC<DieSelectorProps> = ({ sides, onSelect }) => {
     return (
         <div className="flex flex-col items-center justify-center h-full gap-8 animate-fade-in">
-            <h2 className="text-4xl font-bold text-center mb-8 border-4 border-double border-black rounded-2xl px-8 py-4">
+            <h2 className="text-4xl font-bold text-center mb-8 border-4 border-double border-black rounded-2xl px-8 py-4 animate-rainbow-border">
                 Selecciona el dado
             </h2>
             <div className="grid grid-cols-2 md:grid-cols-3 gap-8">
@@ -17,7 +17,8 @@ export const DieSelector: React.FC<DieSelectorProps> = ({ sides, onSelect }) => 
                     <button
                         key={side}
                         onClick={() => onSelect(side)}
-                        className="btn btn-ghost btn-lg w-40 h-40 p-0 hover:scale-110 transition-transform"
+                        className="btn btn-ghost btn-lg w-40 h-40 p-0 hover:scale-110 hover:rotate-6 transition-all duration-300 animate-scale-up"
+                        style={{ animationDelay: `${(side - 1) * 0.15}s` }}
                     >
                         <DieFace value={side} size={140} />
                     </button>
