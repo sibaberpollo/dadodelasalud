@@ -1,0 +1,245 @@
+{
+  "sides": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "colors": [
+    {
+      "id": "red",
+      "name": "Cardiología",
+      "hex": "#e11d48"
+    },
+    {
+      "id": "green",
+      "name": "Nutrición",
+      "hex": "#16a34a"
+    },
+    {
+      "id": "blue",
+      "name": "Enfermería",
+      "hex": "#2563eb"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1-red",
+      "sideId": 1,
+      "colorId": "red",
+      "text": "Dado 1 - Rojo: ¿Cuál es el color de la sangre?",
+      "options": [
+        "Azul",
+        "Verde",
+        "Rojo"
+      ],
+      "correctAnswer": "Rojo"
+    },
+    {
+      "id": "q1-green",
+      "sideId": 1,
+      "colorId": "green",
+      "text": "Dado 1 - Verde: ¿Qué animal es conocido por ser verde?",
+      "options": [
+        "Perro",
+        "Rana",
+        "León"
+      ],
+      "correctAnswer": "Rana"
+    },
+    {
+      "id": "q1-blue",
+      "sideId": 1,
+      "colorId": "blue",
+      "text": "Dado 1 - Azul: ¿De qué color es el cielo despejado?",
+      "options": [
+        "Rojo",
+        "Azul",
+        "Negro"
+      ],
+      "correctAnswer": "Azul"
+    },
+    {
+      "id": "q2-red",
+      "sideId": 2,
+      "colorId": "red",
+      "text": "Dado 2 - Rojo: ¿Qué planeta es conocido como el planeta rojo?",
+      "options": [
+        "Tierra",
+        "Marte",
+        "Júpiter"
+      ],
+      "correctAnswer": "Marte"
+    },
+    {
+      "id": "q2-green",
+      "sideId": 2,
+      "colorId": "green",
+      "text": "Dado 2 - Verde: ¿Qué parte de la planta realiza la fotosíntesis?",
+      "options": [
+        "Raíz",
+        "Hoja",
+        "Fruto"
+      ],
+      "correctAnswer": "Hoja"
+    },
+    {
+      "id": "q2-blue",
+      "sideId": 2,
+      "colorId": "blue",
+      "text": "Dado 2 - Azul: ¿Cuál es el océano más grande?",
+      "options": [
+        "Atlántico",
+        "Pacífico",
+        "Antártico"
+      ],
+      "correctAnswer": "Pacífico"
+    },
+    {
+      "id": "q3-red",
+      "sideId": 3,
+      "colorId": "red",
+      "text": "Dado 3 - Rojo: ¿Qué fruta es roja por dentro?",
+      "options": [
+        "Banana",
+        "Sandía",
+        "Pera"
+      ],
+      "correctAnswer": "Sandía"
+    },
+    {
+      "id": "q3-green",
+      "sideId": 3,
+      "colorId": "green",
+      "text": "Dado 3 - Verde: ¿Qué reptil cambia de color?",
+      "options": [
+        "Serpiente",
+        "Camaleón",
+        "Tortuga"
+      ],
+      "correctAnswer": "Camaleón"
+    },
+    {
+      "id": "q3-blue",
+      "sideId": 3,
+      "colorId": "blue",
+      "text": "Dado 3 - Azul: ¿Qué personaje de Disney es azul?",
+      "options": [
+        "Mickey",
+        "Genio",
+        "Goofy"
+      ],
+      "correctAnswer": "Genio"
+    },
+    {
+      "id": "q4-red",
+      "sideId": 4,
+      "colorId": "red",
+      "text": "Dado 4 - Rojo: ¿Qué flor es clásicamente roja?",
+      "options": [
+        "Girasol",
+        "Rosa",
+        "Lirio"
+      ],
+      "correctAnswer": "Rosa"
+    },
+    {
+      "id": "q4-green",
+      "sideId": 4,
+      "colorId": "green",
+      "text": "Dado 4 - Verde: ¿Cuál es la capital de Francia? (Pregunta original)",
+      "options": [
+        "Londres",
+        "París",
+        "Roma"
+      ],
+      "correctAnswer": "París"
+    },
+    {
+      "id": "q4-blue",
+      "sideId": 4,
+      "colorId": "blue",
+      "text": "Dado 4 - Azul: ¿Qué pitufo es el líder?",
+      "options": [
+        "Gruñón",
+        "Papá Pitufo",
+        "Pitufina"
+      ],
+      "correctAnswer": "Papá Pitufo"
+    },
+    {
+      "id": "q5-red",
+      "sideId": 5,
+      "colorId": "red",
+      "text": "Dado 5 - Rojo: ¿Qué superhéroe usa traje rojo y azul y lanza telarañas?",
+      "options": [
+        "Batman",
+        "Spider-Man",
+        "Flash"
+      ],
+      "correctAnswer": "Spider-Man"
+    },
+    {
+      "id": "q5-green",
+      "sideId": 5,
+      "colorId": "green",
+      "text": "Dado 5 - Verde: ¿Qué superhéroe se pone verde cuando se enoja?",
+      "options": [
+        "Thor",
+        "Iron Man",
+        "Hulk"
+      ],
+      "correctAnswer": "Hulk"
+    },
+    {
+      "id": "q5-blue",
+      "sideId": 5,
+      "colorId": "blue",
+      "text": "Dado 5 - Azul: ¿Qué emoción representa Tristeza en 'Intensamente'?",
+      "options": [
+        "Alegría",
+        "Tristeza",
+        "Temor"
+      ],
+      "correctAnswer": "Tristeza"
+    },
+    {
+      "id": "q6-red",
+      "sideId": 6,
+      "colorId": "red",
+      "text": "Dado 6 - Rojo: ¿Qué líquido vital es rojo?",
+      "options": [
+        "Agua",
+        "Sangre",
+        "Leche"
+      ],
+      "correctAnswer": "Sangre"
+    },
+    {
+      "id": "q6-green",
+      "sideId": 6,
+      "colorId": "green",
+      "text": "Dado 6 - Verde: ¿Qué piedra preciosa es verde?",
+      "options": [
+        "Rubí",
+        "Esmeralda",
+        "Diamante"
+      ],
+      "correctAnswer": "Esmeralda"
+    },
+    {
+      "id": "q6-blue",
+      "sideId": 6,
+      "colorId": "blue",
+      "text": "Dado 6 - Azul: ¿Qué piedra preciosa es azul?",
+      "options": [
+        "Rubí",
+        "Zafiro",
+        "Diamante"
+      ],
+      "correctAnswer": "Zafiro"
+    }
+  ]
+}
