@@ -29,7 +29,7 @@
       "id": "q1-blue",
       "sideId": 1,
       "colorId": "blue",
-      "text": "¿Por qué tengo que controlar la diabetes y la presión arterial alta?",
+      "text": "🏃 ¿Por qué tengo que controlar la diabetes y la presión arterial alta?",
       "options": [
         "Para evitar complicaciones como el infarto, el accidente cerebrovascular, insuficiencia renal crónica y otros",
         "Para no sentirme enfermo",
@@ -41,7 +41,7 @@
       "id": "q1-green",
       "sideId": 1,
       "colorId": "green",
-      "text": "¿Cuál es la presión arterial considerada meta (con buen control) en la mayoría de la población?",
+      "text": "🩺 ¿Cuál es la presión arterial considerada meta (con buen control) en la mayoría de la población?",
       "options": [
         "Menor a 120/70 mmHg",
         "Menor a 140/90 mmHg",
@@ -53,7 +53,7 @@
       "id": "q1-purple",
       "sideId": 1,
       "colorId": "purple",
-      "text": "¿Cuál es el consejo más importante para tener energía y no enfermarse?",
+      "text": "🍌 ¿Cuál es el consejo más importante para tener energía y no enfermarse?",
       "options": [
         "Tomar bebidas energéticas",
         "Tomar muchas vitaminas en pastillas y suplementos",
@@ -65,7 +65,7 @@
       "id": "q2-blue",
       "sideId": 2,
       "colorId": "blue",
-      "text": "Si mis padres tuvieron diabetes o hipertensión arterial, ¿yo también voy a presentar esa enfermedad?",
+      "text": "🏃 Si mis padres tuvieron diabetes o hipertensión arterial, ¿yo también voy a presentar esa enfermedad?",
       "options": [
         "Siempre",
         "Nunca",
@@ -77,7 +77,7 @@
       "id": "q2-green",
       "sideId": 2,
       "colorId": "green",
-      "text": "Para tener buen control de enfermedades cardiovasculares debo:",
+      "text": "🩺 Para tener buen control de enfermedades cardiovasculares debo:",
       "options": [
         "Tomar mis medicamentos como están indicados",
         "Acudir a mis controles y tomar mis medicamentos como están indicados",
@@ -89,7 +89,7 @@
       "id": "q2-purple",
       "sideId": 2,
       "colorId": "purple",
-      "text": "¿Cuántas veces al día debo comer frutas y verduras?",
+      "text": "🍌 ¿Cuántas veces al día debo comer frutas y verduras?",
       "options": [
         "Una o dos veces, solo en el almuerzo",
         "Cinco porciones al día o más, buscando tener muchos colores en el plato",
@@ -101,7 +101,7 @@
       "id": "q3-blue",
       "sideId": 3,
       "colorId": "blue",
-      "text": "¿Cuántos cigarrillos debo fumar para que no afecte mi corazón?",
+      "text": "🏃 ¿Cuántos cigarrillos debo fumar para que no afecte mi corazón?",
       "options": [
         "1 cigarrillo",
         "2 cigarrillos",
@@ -113,7 +113,7 @@
       "id": "q3-green",
       "sideId": 3,
       "colorId": "green",
-      "text": "¿Cuántas veces al año debo acudir a mis controles de cardiovascular?",
+      "text": "🩺 ¿Cuántas veces al año debo acudir a mis controles de cardiovascular?",
       "options": [
         "2 veces al año con médico y enfermera",
         "1 vez al año con médico",
@@ -125,7 +125,7 @@
       "id": "q3-purple",
       "sideId": 3,
       "colorId": "purple",
-      "text": "¿Qué debo tomar cuando tengo sed?",
+      "text": "🍌 ¿Qué debo tomar cuando tengo sed?",
       "options": [
         "Bebidas azucaradas o jugos envasados",
         "Bebidas energéticas",
@@ -137,7 +137,7 @@
       "id": "q4-blue",
       "sideId": 4,
       "colorId": "blue",
-      "text": "¿Cuántas veces debo realizar ejercicios para mantenerme saludable?",
+      "text": "🏃 ¿Cuántas veces debo realizar ejercicios para mantenerme saludable?",
       "options": [
         "No debo hacer ejercicios porque cansa el corazón",
         "Todos los días sin descanso",
@@ -149,7 +149,7 @@
       "id": "q4-green",
       "sideId": 4,
       "colorId": "green",
-      "text": "¿Cuál factores de riesgo puedo modificar para evitar un infarto o accidente cerebrovascular?",
+      "text": "🩺 ¿Cuál factores de riesgo puedo modificar para evitar un infarto o accidente cerebrovascular?",
       "options": [
         "Fumar, actividad física, alimentación, manejo de estrés",
         "Tener familia directa que haya tenido infarto, ser hombre, tener más de 50 años",
@@ -161,7 +161,7 @@
       "id": "q4-purple",
       "sideId": 4,
       "colorId": "purple",
-      "text": "¿Qué son las legumbres y por qué son buenas?",
+      "text": "🍌 ¿Qué son las legumbres y por qué son buenas?",
       "options": [
         "Alimentos como arroz, trigo, maíz, con bajo aporte calórico",
         "Alimentos como porotos, lentejas y garbanzos; son una buena fuente de proteína vegetal, ricos en fibra",
@@ -173,7 +173,7 @@
       "id": "q5-blue",
       "sideId": 5,
       "colorId": "blue",
-      "text": "¿Qué factores no elevan mi presión arterial?",
+      "text": "🏃 ¿Qué factores no elevan mi presión arterial?",
       "options": [
         "El estar irritable",
         "Estar relajado",
@@ -185,7 +185,7 @@
       "id": "q5-green",
       "sideId": 5,
       "colorId": "green",
-      "text": "Para saber si soy hipertenso, debo:",
+      "text": "🩺 Para saber si soy hipertenso, debo:",
       "options": [
         "Consultar solo si me siento mal como tener dolor de cabeza, zumbidos en los oídos",
         "Consultar solo a servicios de urgencia",
@@ -197,7 +197,7 @@
       "id": "q5-purple",
       "sideId": 5,
       "colorId": "purple",
-      "text": "¿Qué cosas no deberíamos comprar en el supermercado?",
+      "text": "🍌 ¿Qué cosas no deberíamos comprar en el supermercado?",
       "options": [
         "El pan integral y el aceite de oliva",
         "Todo lo que tenga sellos negros grandes de 'alto en' (sal, grasa o azúcar)",
@@ -209,7 +209,7 @@
       "id": "q6-blue",
       "sideId": 6,
       "colorId": "blue",
-      "text": "¿El estrés afecta si tengo una enfermedad cardiovascular?",
+      "text": "🏃 ¿El estrés afecta si tengo una enfermedad cardiovascular?",
       "options": [
         "Sí",
         "No",
@@ -221,7 +221,7 @@
       "id": "q6-green",
       "sideId": 6,
       "colorId": "green",
-      "text": "Si tengo una enfermedad cardiovascular, me debo tomar los medicamentos...",
+      "text": "🩺 Si tengo una enfermedad cardiovascular, me debo tomar los medicamentos...",
       "options": [
         "Todos los días",
         "Cuando me sienta mal",
@@ -233,7 +233,7 @@
       "id": "q6-purple",
       "sideId": 6,
       "colorId": "purple",
-      "text": "Para estar sano y con mucha energía, las guías alimentarias de Chile nos dicen que debemos elegir comida:",
+      "text": "🍌 Para estar sano y con mucha energía, las guías alimentarias de Chile nos dicen que debemos elegir comida:",
       "options": [
         "Que viene en paquetes grandes y tiene muchos sellos negros de 'alto en'",
         "Que es fresca, natural, tiene muchos colores (frutas y verduras) y no tiene sellos",
