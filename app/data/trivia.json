@@ -9,237 +9,237 @@
   ],
   "colors": [
     {
-      "id": "red",
-      "name": "Cardiología",
-      "hex": "#e11d48"
+      "id": "blue",
+      "name": "Azul",
+      "hex": "#2563eb"
     },
     {
       "id": "green",
-      "name": "Nutrición",
+      "name": "Verde",
       "hex": "#16a34a"
     },
     {
-      "id": "blue",
-      "name": "Enfermería",
-      "hex": "#2563eb"
+      "id": "purple",
+      "name": "Morado",
+      "hex": "#9333ea"
     }
   ],
   "questions": [
     {
-      "id": "q1-red",
+      "id": "q1-blue",
       "sideId": 1,
-      "colorId": "red",
-      "text": "Dado 1 - Rojo: ¿Cuál es el color de la sangre?",
+      "colorId": "blue",
+      "text": "¿Por qué tengo que controlar la diabetes y la presión arterial alta?",
       "options": [
-        "Azul",
-        "Verde",
-        "Rojo"
+        "Para evitar complicaciones como el infarto, el accidente cerebrovascular, insuficiencia renal crónica y otros",
+        "Para no sentirme enfermo",
+        "Para no gastar tanto en remedios"
       ],
-      "correctAnswer": "Rojo"
+      "correctAnswer": "Para evitar complicaciones como el infarto, el accidente cerebrovascular, insuficiencia renal crónica y otros"
     },
     {
       "id": "q1-green",
       "sideId": 1,
       "colorId": "green",
-      "text": "Dado 1 - Verde: ¿Qué animal es conocido por ser verde?",
+      "text": "¿Cuál es la presión arterial considerada meta (con buen control) en la mayoría de la población?",
       "options": [
-        "Perro",
-        "Rana",
-        "León"
+        "Menor a 120/70 mmHg",
+        "Menor a 140/90 mmHg",
+        "Menor a 130/80 mmHg"
       ],
-      "correctAnswer": "Rana"
+      "correctAnswer": "Menor a 140/90 mmHg"
     },
     {
-      "id": "q1-blue",
+      "id": "q1-purple",
       "sideId": 1,
-      "colorId": "blue",
-      "text": "Dado 1 - Azul: ¿De qué color es el cielo despejado?",
+      "colorId": "purple",
+      "text": "¿Cuál es el consejo más importante para tener energía y no enfermarse?",
       "options": [
-        "Rojo",
-        "Azul",
-        "Negro"
+        "Tomar bebidas energéticas",
+        "Tomar muchas vitaminas en pastillas y suplementos",
+        "Comer más alimentos frescos y naturales (frutas, verduras, legumbres)"
       ],
-      "correctAnswer": "Azul"
-    },
-    {
-      "id": "q2-red",
-      "sideId": 2,
-      "colorId": "red",
-      "text": "Dado 2 - Rojo: ¿Qué planeta es conocido como el planeta rojo?",
-      "options": [
-        "Tierra",
-        "Marte",
-        "Júpiter"
-      ],
-      "correctAnswer": "Marte"
-    },
-    {
-      "id": "q2-green",
-      "sideId": 2,
-      "colorId": "green",
-      "text": "Dado 2 - Verde: ¿Qué parte de la planta realiza la fotosíntesis?",
-      "options": [
-        "Raíz",
-        "Hoja",
-        "Fruto"
-      ],
-      "correctAnswer": "Hoja"
+      "correctAnswer": "Comer más alimentos frescos y naturales (frutas, verduras, legumbres)"
     },
     {
       "id": "q2-blue",
       "sideId": 2,
       "colorId": "blue",
-      "text": "Dado 2 - Azul: ¿Cuál es el océano más grande?",
+      "text": "Si mis padres tuvieron diabetes o hipertensión arterial, ¿yo también voy a presentar esa enfermedad?",
       "options": [
-        "Atlántico",
-        "Pacífico",
-        "Antártico"
+        "Siempre",
+        "Nunca",
+        "Reduzco el riesgo si llevo una vida con hábitos saludables"
       ],
-      "correctAnswer": "Pacífico"
+      "correctAnswer": "Reduzco el riesgo si llevo una vida con hábitos saludables"
     },
     {
-      "id": "q3-red",
-      "sideId": 3,
-      "colorId": "red",
-      "text": "Dado 3 - Rojo: ¿Qué fruta es roja por dentro?",
-      "options": [
-        "Banana",
-        "Sandía",
-        "Pera"
-      ],
-      "correctAnswer": "Sandía"
-    },
-    {
-      "id": "q3-green",
-      "sideId": 3,
+      "id": "q2-green",
+      "sideId": 2,
       "colorId": "green",
-      "text": "Dado 3 - Verde: ¿Qué reptil cambia de color?",
+      "text": "Para tener buen control de enfermedades cardiovasculares debo:",
       "options": [
-        "Serpiente",
-        "Camaleón",
-        "Tortuga"
+        "Tomar mis medicamentos como están indicados",
+        "Acudir a mis controles y tomar mis medicamentos como están indicados",
+        "Llevar dieta saludable, hacer actividad física regular, no fumar, moderar consumo de alcohol, tomar mis medicamentos como están indicados y acudir a mis controles"
       ],
-      "correctAnswer": "Camaleón"
+      "correctAnswer": "Llevar dieta saludable, hacer actividad física regular, no fumar, moderar consumo de alcohol, tomar mis medicamentos como están indicados y acudir a mis controles"
+    },
+    {
+      "id": "q2-purple",
+      "sideId": 2,
+      "colorId": "purple",
+      "text": "¿Cuántas veces al día debo comer frutas y verduras?",
+      "options": [
+        "Una o dos veces, solo en el almuerzo",
+        "Cinco porciones al día o más, buscando tener muchos colores en el plato",
+        "Solo cuando me siento enfermo o resfriado"
+      ],
+      "correctAnswer": "Cinco porciones al día o más, buscando tener muchos colores en el plato"
     },
     {
       "id": "q3-blue",
       "sideId": 3,
       "colorId": "blue",
-      "text": "Dado 3 - Azul: ¿Qué personaje de Disney es azul?",
+      "text": "¿Cuántos cigarrillos debo fumar para que no afecte mi corazón?",
       "options": [
-        "Mickey",
-        "Genio",
-        "Goofy"
+        "1 cigarrillo",
+        "2 cigarrillos",
+        "Ninguno"
       ],
-      "correctAnswer": "Genio"
+      "correctAnswer": "Ninguno"
     },
     {
-      "id": "q4-red",
-      "sideId": 4,
-      "colorId": "red",
-      "text": "Dado 4 - Rojo: ¿Qué flor es clásicamente roja?",
-      "options": [
-        "Girasol",
-        "Rosa",
-        "Lirio"
-      ],
-      "correctAnswer": "Rosa"
-    },
-    {
-      "id": "q4-green",
-      "sideId": 4,
+      "id": "q3-green",
+      "sideId": 3,
       "colorId": "green",
-      "text": "Dado 4 - Verde: ¿Cuál es la capital de Francia? (Pregunta original)",
+      "text": "¿Cuántas veces al año debo acudir a mis controles de cardiovascular?",
       "options": [
-        "Londres",
-        "París",
-        "Roma"
+        "2 veces al año con médico y enfermera",
+        "1 vez al año con médico",
+        "3 veces al año, con médico, enfermera y nutricionista"
       ],
-      "correctAnswer": "París"
+      "correctAnswer": "3 veces al año, con médico, enfermera y nutricionista"
+    },
+    {
+      "id": "q3-purple",
+      "sideId": 3,
+      "colorId": "purple",
+      "text": "¿Qué debo tomar cuando tengo sed?",
+      "options": [
+        "Bebidas azucaradas o jugos envasados",
+        "Bebidas energéticas",
+        "Agua varias veces al día (6-8 vasos al día)"
+      ],
+      "correctAnswer": "Agua varias veces al día (6-8 vasos al día)"
     },
     {
       "id": "q4-blue",
       "sideId": 4,
       "colorId": "blue",
-      "text": "Dado 4 - Azul: ¿Qué pitufo es el líder?",
+      "text": "¿Cuántas veces debo realizar ejercicios para mantenerme saludable?",
       "options": [
-        "Gruñón",
-        "Papá Pitufo",
-        "Pitufina"
+        "No debo hacer ejercicios porque cansa el corazón",
+        "Todos los días sin descanso",
+        "3 veces a la semana, 30 minutos. Ejemplo: caminata"
       ],
-      "correctAnswer": "Papá Pitufo"
+      "correctAnswer": "3 veces a la semana, 30 minutos. Ejemplo: caminata"
     },
     {
-      "id": "q5-red",
-      "sideId": 5,
-      "colorId": "red",
-      "text": "Dado 5 - Rojo: ¿Qué superhéroe usa traje rojo y azul y lanza telarañas?",
-      "options": [
-        "Batman",
-        "Spider-Man",
-        "Flash"
-      ],
-      "correctAnswer": "Spider-Man"
-    },
-    {
-      "id": "q5-green",
-      "sideId": 5,
+      "id": "q4-green",
+      "sideId": 4,
       "colorId": "green",
-      "text": "Dado 5 - Verde: ¿Qué superhéroe se pone verde cuando se enoja?",
+      "text": "¿Cuál factores de riesgo puedo modificar para evitar un infarto o accidente cerebrovascular?",
       "options": [
-        "Thor",
-        "Iron Man",
-        "Hulk"
+        "Fumar, actividad física, alimentación, manejo de estrés",
+        "Tener familia directa que haya tenido infarto, ser hombre, tener más de 50 años",
+        "Aumentar dinero para tratarme mejor"
       ],
-      "correctAnswer": "Hulk"
+      "correctAnswer": "Fumar, actividad física, alimentación, manejo de estrés"
+    },
+    {
+      "id": "q4-purple",
+      "sideId": 4,
+      "colorId": "purple",
+      "text": "¿Qué son las legumbres y por qué son buenas?",
+      "options": [
+        "Alimentos como arroz, trigo, maíz, con bajo aporte calórico",
+        "Alimentos como porotos, lentejas y garbanzos; son una buena fuente de proteína vegetal, ricos en fibra",
+        "Cereal de desayuno inflado, porque es bajo en calorías"
+      ],
+      "correctAnswer": "Alimentos como porotos, lentejas y garbanzos; son una buena fuente de proteína vegetal, ricos en fibra"
     },
     {
       "id": "q5-blue",
       "sideId": 5,
       "colorId": "blue",
-      "text": "Dado 5 - Azul: ¿Qué emoción representa Tristeza en 'Intensamente'?",
+      "text": "¿Qué factores no elevan mi presión arterial?",
       "options": [
-        "Alegría",
-        "Tristeza",
-        "Temor"
+        "El estar irritable",
+        "Estar relajado",
+        "Dormir poco"
       ],
-      "correctAnswer": "Tristeza"
+      "correctAnswer": "Estar relajado"
     },
     {
-      "id": "q6-red",
-      "sideId": 6,
-      "colorId": "red",
-      "text": "Dado 6 - Rojo: ¿Qué líquido vital es rojo?",
-      "options": [
-        "Agua",
-        "Sangre",
-        "Leche"
-      ],
-      "correctAnswer": "Sangre"
-    },
-    {
-      "id": "q6-green",
-      "sideId": 6,
+      "id": "q5-green",
+      "sideId": 5,
       "colorId": "green",
-      "text": "Dado 6 - Verde: ¿Qué piedra preciosa es verde?",
+      "text": "Para saber si soy hipertenso, debo:",
       "options": [
-        "Rubí",
-        "Esmeralda",
-        "Diamante"
+        "Consultar solo si me siento mal como tener dolor de cabeza, zumbidos en los oídos",
+        "Consultar solo a servicios de urgencia",
+        "Hacerme chequeo (EMPA) 1 vez al año en el CESFAM aunque me sienta bien"
       ],
-      "correctAnswer": "Esmeralda"
+      "correctAnswer": "Hacerme chequeo (EMPA) 1 vez al año en el CESFAM aunque me sienta bien"
+    },
+    {
+      "id": "q5-purple",
+      "sideId": 5,
+      "colorId": "purple",
+      "text": "¿Qué cosas no deberíamos comprar en el supermercado?",
+      "options": [
+        "El pan integral y el aceite de oliva",
+        "Todo lo que tenga sellos negros grandes de 'alto en' (sal, grasa o azúcar)",
+        "La comida congelada, aunque no tenga sellos"
+      ],
+      "correctAnswer": "Todo lo que tenga sellos negros grandes de 'alto en' (sal, grasa o azúcar)"
     },
     {
       "id": "q6-blue",
       "sideId": 6,
       "colorId": "blue",
-      "text": "Dado 6 - Azul: ¿Qué piedra preciosa es azul?",
+      "text": "¿El estrés afecta si tengo una enfermedad cardiovascular?",
       "options": [
-        "Rubí",
-        "Zafiro",
-        "Diamante"
+        "Sí",
+        "No",
+        "Depende de cuánto estrés tenga"
       ],
-      "correctAnswer": "Zafiro"
+      "correctAnswer": "Sí"
+    },
+    {
+      "id": "q6-green",
+      "sideId": 6,
+      "colorId": "green",
+      "text": "Si tengo una enfermedad cardiovascular, me debo tomar los medicamentos...",
+      "options": [
+        "Todos los días",
+        "Cuando me sienta mal",
+        "Cuando me acuerde"
+      ],
+      "correctAnswer": "Todos los días"
+    },
+    {
+      "id": "q6-purple",
+      "sideId": 6,
+      "colorId": "purple",
+      "text": "Para estar sano y con mucha energía, las guías alimentarias de Chile nos dicen que debemos elegir comida:",
+      "options": [
+        "Que viene en paquetes grandes y tiene muchos sellos negros de 'alto en'",
+        "Que es fresca, natural, tiene muchos colores (frutas y verduras) y no tiene sellos",
+        "Que solo tiene carne, pan y bebidas azucaradas"
+      ],
+      "correctAnswer": "Que es fresca, natural, tiene muchos colores (frutas y verduras) y no tiene sellos"
     }
   ]
 }
