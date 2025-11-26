@@ -8,7 +8,7 @@ interface ResultViewProps {
 
 export const ResultView: React.FC<ResultViewProps> = ({ isCorrect, correctAnswer, onReset }) => {
     return (
-        <div className="flex flex-col items-center justify-center h-full gap-8 animate-fade-in">
+        <div className="flex flex-col items-center gap-8 animate-fade-in">
             <div className={`card w-96 shadow-xl ${isCorrect ? 'bg-success text-success-content' : 'bg-error text-error-content'}`}>
                 <div className="card-body items-center text-center">
                     <h2 className="card-title text-4xl mb-4">{isCorrect ? '¡Correcto!' : '¡Incorrecto!'}</h2>

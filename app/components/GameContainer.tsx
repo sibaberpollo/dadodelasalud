@@ -21,7 +21,7 @@ export const GameContainer: React.FC = () => {
 
     return (
         <div className="min-h-screen bg-base-100 p-4 pt-8" data-theme="light">
-            <div className="w-full h-full relative">
+            <div className={`w-full relative ${step === 'RESULT' ? 'min-h-[calc(100vh-3rem)] flex items-center justify-center' : ''}`}>
                 {/* Header / Navigation could go here */}
 
                 {step === 'DIE_SELECTION' && (
