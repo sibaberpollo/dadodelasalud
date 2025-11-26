@@ -1,0 +1,18 @@
+{
+  "name": "Dado de la Salud - Cuida tu corazón",
+  "short_name": "Dado Salud",
+  "description": "Juego educativo sobre salud cardiovascular",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ef4444",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
